@@ -33,4 +33,12 @@
     <img src=".\results\hw3-5.png" align="center" width=256 height=256>
 </figure>
 </center>
+## 作业4
 
+利用递归方式实现Bezier曲线公式
+
+<center>
+<figure>
+    <img src=".\results\hw4.png" align="center" width=256 height=256>
+</figure>
+</center>

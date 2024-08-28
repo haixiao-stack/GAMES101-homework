@@ -24,14 +24,9 @@
 
 利用作业2中对深度坐标的插值公式对法线，颜色，纹理坐标进行插值，并实现Blinn-Phong模型以及凹凸纹理
 
-<center>
-<figure>
-    <img src=".\results\hw3-1.png" align="center" width=256 height=256>
-    <img src=".\results\hw3-2.png" align="center" width=256 height=256>
-    <img src=".\results\hw3-3.png" align="center" width=256 height=256>
-    <img src=".\results\hw3-4.png" align="center" width=256 height=256>
-    <img src=".\results\hw3-5.png" align="center" width=256 height=256>
-</figure>
+<center class="half">
+    <img src=".\results\hw3-1.png" align="center" width=256 height=256><img src=".\results\hw3-2.png" align="center" width=256 height=256><img src=".\results\hw3-3.png" align="center" width=256 height=256>
+    <img src=".\results\hw3-4.png" align="center" width=256 height=256><img src=".\results\hw3-5.png" align="center" width=256 height=256>
 </center>
 ## 作业4
 
